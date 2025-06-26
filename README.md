@@ -14,4 +14,4 @@ Basterà inserire i propri nomi (o Nickname) e cliccare sul tasto **play**.
 **Attenzione!** se si lasceranno spazi vuoti o con degli spazi, il gioco lascerà scritto a video "**Non hai inserito i nomi**".
 
 ---
-La seconda modalità, **Giocatore vs Bot**, può essere attivata semplicemente cliccando il CheckBox 📦  "**Vuoi giocare contro il bot?**" e automaticamente la casella dove sarebbe dovuto esserci il nome del secondo giocatore, si disabiliterà in automatico.
+La seconda modalità, **Giocatore vs Bot**, può essere attivata semplicemente cliccando il CheckBox 📦  "**Vuoi giocare contro il bot?**" e automaticamente la casella dove sarebbe dovuto esserci il nome del secondo giocatore verrà disabilitata.
